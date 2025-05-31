@@ -16,7 +16,7 @@ up then).
 With fewer colors or so-called 'outdoor panels' you can control even more,
 faster.
 
-The LED-matrix library is (c) Henner Zeller <h.zeller@acm.org>, licensed with
+The LED-matrix library is © Henner Zeller <h.zeller@acm.org>, licensed with
 [GNU General Public License Version 2.0 (or any later version)](http://www.gnu.org/licenses/gpl-2.0.txt)
 (which means, if you use it in a product somewhere, you need to make the
 source and all your modifications available to the receiver of such product so
