@@ -4,3 +4,10 @@
 *.so
 .envrc
 .direnv
+/bindings/python/dist/rgbmatrix-0.0.1-py3.11-linux-aarch64.egg
+/bindings/python/rgbmatrix.egg-info/PKG-INFO
+/bindings/python/rgbmatrix.egg-info/SOURCES.txt
+/bindings/python/rgbmatrix.egg-info/dependency_links.txt
+/bindings/python/rgbmatrix.egg-info/top_level.txt
+/bindings/python/samples/__pycache__/matrixOptions.cpython-311.pyc
+/bindings/python/samples/__pycache__/samplebase.cpython-311.pyc
