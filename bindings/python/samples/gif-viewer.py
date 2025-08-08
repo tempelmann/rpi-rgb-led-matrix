@@ -20,12 +20,8 @@ except Exception:
 
 
 # Configuration for the matrix
-options = RGBMatrixOptions()
-options.rows = 32
-options.cols = 32
-options.chain_length = 1
-options.parallel = 1
-options.hardware_mapping = 'regular'  # If you have an Adafruit HAT: 'adafruit-hat'
+import matrixOptions
+options = matrixOptions.matrixOptions()
 
 matrix = RGBMatrix(options = options)
 
